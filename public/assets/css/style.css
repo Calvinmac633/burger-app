@@ -1,0 +1,30 @@
+body {
+  background-color: #ffa28b;
+  margin-left: 35%;
+}
+li {
+  padding: 5px;
+  margin: 5px;
+  align-items: center;
+  background: #f15f3b;
+  width: 50%;
+  font-size: 2rem;
+  list-style: none;
+}
+ul {
+  padding: 0;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: rgb(255, 201, 139);
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
