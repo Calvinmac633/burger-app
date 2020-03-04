@@ -1,12 +1,33 @@
 body {
-  background-color: #8bfff9;
-  margin-left: 35%;
+  background-color: #ff876a;
+  display: flex;
+  justify-content: center;
+  
+}
+.container {
+  width: 75%;
+}
+.headers {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  border-bottom: black solid 3px;
+}
+.row {
+  align-items: center;
+}
+#burgerPic {
+  height: 50px;
+  width: 50px;
+  margin: auto;
+  /* width: 50%; */
+  padding: 10px;
 }
 li {
   padding: 5px;
   margin: 5px;
   align-items: center;
-  background: #f15f3b;
+  /* background: #ffc0b0; */
   width: 50%;
   font-size: 2rem;
   list-style: none;
